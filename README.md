@@ -1,6 +1,7 @@
 # DEGO Project - Team 7
 # # Team Members
 - [Hazal Aksu]
+- [Thomas Teichmann]
 ## Project Description
 Credit scoring bias analysis for DEGO course .
 ## Structure
