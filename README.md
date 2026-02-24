@@ -1,8 +1,6 @@
-# dego-project-team7
-
 # DEGO Project - Team 7
 # # Team Members
-- [Hazal Aksu] ( add your name here )
+- [Hazal Aksu]
 ## Project Description
 Credit scoring bias analysis for DEGO course .
 ## Structure
