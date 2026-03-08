@@ -905,46 +905,6 @@
   },
   {
     "applicant_info": {
-      "full_name": "Margaret Williams",
-      "email": "invalid_format@placeholder.com",
-      "gender": "Unknown",
-      "date_of_birth": "1900-01-01",
-      "zip_code": "",
-      "ssn": "000-00-0000",
-      "ip_address": "0.0.0.0"
-    },
-    "financials": {
-      "annual_income": 61000.0,
-      "credit_history_months": 29,
-      "debt_to_income": 0.15,
-      "savings_balance": 25894
-    },
-    "spending_behavior": [
-      {
-        "category": "Shopping",
-        "amount": 121
-      },
-      {
-        "category": "Transportation",
-        "amount": 59
-      },
-      {
-        "category": "Entertainment",
-        "amount": 882
-      }
-    ],
-    "decision": {
-      "loan_approved": true,
-      "interest_rate": 5.1,
-      "approved_amount": 22000,
-      "rejection_reason": "Not Applicable"
-    },
-    "app_id": "app_075",
-    "loan_purpose": "Not Specified",
-    "processing_timestamp": "1970-01-01T00:00:00Z"
-  },
-  {
-    "applicant_info": {
       "full_name": "Amy Flores",
       "email": "amy.flores63@outlook.com",
       "ssn": "654-72-8456",
@@ -9501,42 +9461,6 @@
   },
   {
     "applicant_info": {
-      "full_name": "Carolyn Martin",
-      "email": "invalid_format@placeholder.com",
-      "gender": "Female",
-      "date_of_birth": "1900-01-01",
-      "zip_code": "90240",
-      "ssn": "000-00-0000",
-      "ip_address": "0.0.0.0"
-    },
-    "financials": {
-      "annual_income": 103000.0,
-      "credit_history_months": 96,
-      "debt_to_income": 0.45,
-      "savings_balance": 26517
-    },
-    "spending_behavior": [
-      {
-        "category": "Utilities",
-        "amount": 808
-      },
-      {
-        "category": "Dining",
-        "amount": 590
-      }
-    ],
-    "decision": {
-      "loan_approved": false,
-      "rejection_reason": "algorithm_risk_score",
-      "interest_rate": 0.0,
-      "approved_amount": 0.0
-    },
-    "app_id": "app_120",
-    "loan_purpose": "Not Specified",
-    "processing_timestamp": "1970-01-01T00:00:00Z"
-  },
-  {
-    "applicant_info": {
       "full_name": "Emily Lopez",
       "email": "invalid_format@placeholder.com",
       "ssn": "641-36-7605",
@@ -10248,42 +10172,6 @@
       "rejection_reason": "Not Applicable"
     },
     "app_id": "app_467",
-    "loan_purpose": "Not Specified",
-    "processing_timestamp": "1970-01-01T00:00:00Z"
-  },
-  {
-    "applicant_info": {
-      "full_name": "Larry Williams",
-      "email": "invalid_format@placeholder.com",
-      "gender": "Unknown",
-      "date_of_birth": "1971-05-14",
-      "zip_code": "10005",
-      "ssn": "000-00-0000",
-      "ip_address": "0.0.0.0"
-    },
-    "financials": {
-      "annual_income": 112000.0,
-      "credit_history_months": 102,
-      "debt_to_income": 0.07,
-      "savings_balance": 54823
-    },
-    "spending_behavior": [
-      {
-        "category": "Utilities",
-        "amount": 267
-      },
-      {
-        "category": "Gambling",
-        "amount": 751
-      }
-    ],
-    "decision": {
-      "loan_approved": true,
-      "interest_rate": 3.4,
-      "approved_amount": 41000,
-      "rejection_reason": "Not Applicable"
-    },
-    "app_id": "app_268",
     "loan_purpose": "Not Specified",
     "processing_timestamp": "1970-01-01T00:00:00Z"
   },
@@ -15433,42 +15321,6 @@
   },
   {
     "applicant_info": {
-      "full_name": "Linda Adams",
-      "email": "invalid_format@placeholder.com",
-      "ssn": "356-98-8263",
-      "ip_address": "10.207.183.196",
-      "gender": "Female",
-      "date_of_birth": "1900-01-01",
-      "zip_code": "90291"
-    },
-    "financials": {
-      "annual_income": 89000.0,
-      "credit_history_months": 52,
-      "debt_to_income": 0.2,
-      "savings_balance": 14377
-    },
-    "spending_behavior": [
-      {
-        "category": "Utilities",
-        "amount": 876
-      },
-      {
-        "category": "Entertainment",
-        "amount": 670
-      }
-    ],
-    "decision": {
-      "loan_approved": true,
-      "interest_rate": 4.1,
-      "approved_amount": 67000,
-      "rejection_reason": "Not Applicable"
-    },
-    "app_id": "app_350",
-    "loan_purpose": "Not Specified",
-    "processing_timestamp": "1970-01-01T00:00:00Z"
-  },
-  {
-    "applicant_info": {
       "full_name": "Jack Miller",
       "email": "jack.miller8@mail.com",
       "ssn": "127-48-3577",
@@ -15676,38 +15528,6 @@
       "approved_amount": 0.0
     },
     "app_id": "app_388",
-    "loan_purpose": "Not Specified",
-    "processing_timestamp": "1970-01-01T00:00:00Z"
-  },
-  {
-    "applicant_info": {
-      "full_name": "Stephanie Nguyen",
-      "email": "stephanie.nguyen47@mail.com",
-      "ssn": "000-00-0000",
-      "ip_address": "0.0.0.0",
-      "gender": "Unknown",
-      "date_of_birth": "1900-01-01",
-      "zip_code": "00000"
-    },
-    "financials": {
-      "annual_income": 102000.0,
-      "credit_history_months": 37,
-      "debt_to_income": 0.42,
-      "savings_balance": 0
-    },
-    "spending_behavior": [
-      {
-        "category": "Fitness",
-        "amount": 576
-      }
-    ],
-    "decision": {
-      "loan_approved": false,
-      "rejection_reason": "high_dti_ratio",
-      "interest_rate": 0.0,
-      "approved_amount": 0.0
-    },
-    "app_id": "app_001",
     "loan_purpose": "Not Specified",
     "processing_timestamp": "1970-01-01T00:00:00Z"
   },
@@ -15922,42 +15742,6 @@
     "app_id": "app_023",
     "loan_purpose": "Not Specified",
     "processing_timestamp": "1970-01-01T00:00:00Z"
-  },
-  {
-    "applicant_info": {
-      "full_name": "Brandon Moore",
-      "email": "invalid_format@placeholder.com",
-      "gender": "Male",
-      "date_of_birth": "1900-01-01",
-      "zip_code": "10077",
-      "ssn": "000-00-0000",
-      "ip_address": "0.0.0.0"
-    },
-    "financials": {
-      "annual_income": 66000.0,
-      "credit_history_months": 6,
-      "debt_to_income": 0.16,
-      "savings_balance": 36936
-    },
-    "spending_behavior": [
-      {
-        "category": "Dining",
-        "amount": 435
-      },
-      {
-        "category": "Insurance",
-        "amount": 508
-      }
-    ],
-    "decision": {
-      "loan_approved": true,
-      "interest_rate": 5.6,
-      "approved_amount": 53000,
-      "rejection_reason": "Not Applicable"
-    },
-    "processing_timestamp": "2024-01-15T00:00:00Z",
-    "app_id": "app_165",
-    "loan_purpose": "Not Specified"
   },
   {
     "applicant_info": {
