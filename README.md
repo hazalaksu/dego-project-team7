@@ -10,7 +10,10 @@
 
 Credit scoring bias analysis for DEGO course.
 
-## Structure
+## Project Video Link
+https://drive.google.com/drive/folders/19_y0hm6_M3pntDAAoD0DmLwT7UONTgGU
+
+## Repository Structure
 ```
 ├── data/              # Raw and processed datasets
 ├── notebooks/         # Jupyter notebooks for data quality and analysis
