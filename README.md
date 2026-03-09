@@ -15,7 +15,7 @@ Credit scoring bias analysis for DEGO course .
 ├── data/              # Raw and processed datasets
 ├── notebooks/         # Jupyter notebooks for data quality and analysis
 ├── presentation/      # PowerPoint slides and presentation materials
-├── src/               # Python source code
+├── src/               # Structural placeholder for future Python package deployment
 └── requirements.txt   # List of dependencies for the project
 ```
 
