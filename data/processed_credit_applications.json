@@ -4729,74 +4729,6 @@
   },
   {
     "applicant_info": {
-      "full_name": "Daniel King",
-      "email": "daniel.king27@mail.com",
-      "ssn": "166-23-2000",
-      "ip_address": "10.204.248.60",
-      "gender": "Male",
-      "date_of_birth": "1985-08-17",
-      "zip_code": "10038"
-    },
-    "financials": {
-      "annual_income": 131000.0,
-      "credit_history_months": 10,
-      "debt_to_income": 0.06,
-      "savings_balance": 53098
-    },
-    "spending_behavior": [
-      {
-        "category": "Groceries",
-        "amount": 398
-      },
-      {
-        "category": "Entertainment",
-        "amount": 464
-      }
-    ],
-    "decision": {
-      "loan_approved": true,
-      "interest_rate": 3.9,
-      "approved_amount": 68000,
-      "rejection_reason": "Not Applicable"
-    },
-    "app_id": "app_043",
-    "loan_purpose": "Not Specified",
-    "processing_timestamp": "1970-01-01T00:00:00Z"
-  },
-  {
-    "applicant_info": {
-      "full_name": "Jonathan Carter",
-      "email": "invalid_format@placeholder.com",
-      "ssn": "972-81-1928",
-      "ip_address": "10.77.72.174",
-      "gender": "Male",
-      "date_of_birth": "1983-04-12",
-      "zip_code": "90256"
-    },
-    "financials": {
-      "annual_income": 81000.0,
-      "credit_history_months": 63,
-      "debt_to_income": 0.22,
-      "savings_balance": 14018
-    },
-    "spending_behavior": [
-      {
-        "category": "Travel",
-        "amount": 778
-      }
-    ],
-    "decision": {
-      "loan_approved": false,
-      "rejection_reason": "algorithm_risk_score",
-      "interest_rate": 0.0,
-      "approved_amount": 0.0
-    },
-    "loan_purpose": "vacation",
-    "app_id": "app_204",
-    "processing_timestamp": "1970-01-01T00:00:00Z"
-  },
-  {
-    "applicant_info": {
       "full_name": "James Rivera",
       "email": "james.rivera15@outlook.com",
       "ssn": "853-96-1952",
@@ -5493,38 +5425,6 @@
   },
   {
     "applicant_info": {
-      "full_name": "Stephanie Perez",
-      "email": "stephanie.perez69@gmail.com",
-      "ssn": "866-48-3726",
-      "ip_address": "172.25.130.219",
-      "gender": "Female",
-      "date_of_birth": "1990-01-06",
-      "zip_code": "90221"
-    },
-    "financials": {
-      "annual_income": 104000.0,
-      "credit_history_months": 39,
-      "debt_to_income": 0.27,
-      "savings_balance": 5000
-    },
-    "spending_behavior": [
-      {
-        "category": "Fitness",
-        "amount": 599
-      }
-    ],
-    "decision": {
-      "loan_approved": true,
-      "interest_rate": 4.3,
-      "approved_amount": 49000,
-      "rejection_reason": "Not Applicable"
-    },
-    "app_id": "app_290",
-    "loan_purpose": "Not Specified",
-    "processing_timestamp": "1970-01-01T00:00:00Z"
-  },
-  {
-    "applicant_info": {
       "full_name": "Susan Flores",
       "email": "susan.flores83@gmail.com",
       "ssn": "470-84-5617",
@@ -5590,38 +5490,6 @@
     "loan_purpose": "home_improvement",
     "app_id": "app_201",
     "processing_timestamp": "1970-01-01T00:00:00Z"
-  },
-  {
-    "applicant_info": {
-      "full_name": "Jessica Green",
-      "email": "jessica.green86@gmail.com",
-      "ssn": "801-19-4595",
-      "ip_address": "192.168.59.201",
-      "gender": "Female",
-      "date_of_birth": "1999-11-28",
-      "zip_code": "90239"
-    },
-    "financials": {
-      "annual_income": 25000.0,
-      "credit_history_months": 3,
-      "debt_to_income": 0.21,
-      "savings_balance": 13641
-    },
-    "spending_behavior": [
-      {
-        "category": "Rent",
-        "amount": 218
-      }
-    ],
-    "decision": {
-      "loan_approved": false,
-      "rejection_reason": "algorithm_risk_score",
-      "interest_rate": 0.0,
-      "approved_amount": 0.0
-    },
-    "processing_timestamp": "2024-01-15T00:00:00Z",
-    "app_id": "app_156",
-    "loan_purpose": "Not Specified"
   },
   {
     "applicant_info": {
@@ -6229,46 +6097,6 @@
   },
   {
     "applicant_info": {
-      "full_name": "Samuel Gonzalez",
-      "email": "invalid_format@placeholder.com",
-      "ssn": "626-69-8549",
-      "ip_address": "172.29.212.150",
-      "gender": "Male",
-      "date_of_birth": "1972-08-28",
-      "zip_code": "10054"
-    },
-    "financials": {
-      "annual_income": 64000.0,
-      "credit_history_months": 58,
-      "debt_to_income": 0.18,
-      "savings_balance": 23101
-    },
-    "spending_behavior": [
-      {
-        "category": "Dining",
-        "amount": 854
-      },
-      {
-        "category": "Healthcare",
-        "amount": 787
-      },
-      {
-        "category": "Groceries",
-        "amount": 531
-      }
-    ],
-    "decision": {
-      "loan_approved": false,
-      "rejection_reason": "algorithm_risk_score",
-      "interest_rate": 0.0,
-      "approved_amount": 0.0
-    },
-    "app_id": "app_299",
-    "loan_purpose": "Not Specified",
-    "processing_timestamp": "1970-01-01T00:00:00Z"
-  },
-  {
-    "applicant_info": {
       "full_name": "Kenneth Hall",
       "email": "kenneth.hall2@mail.com",
       "ssn": "195-78-2598",
@@ -6441,38 +6269,6 @@
     },
     "loan_purpose": "wedding",
     "app_id": "app_216",
-    "processing_timestamp": "1970-01-01T00:00:00Z"
-  },
-  {
-    "applicant_info": {
-      "full_name": "Anthony Jackson",
-      "email": "invalid_format@placeholder.com",
-      "ssn": "584-37-2562",
-      "ip_address": "172.20.164.12",
-      "gender": "Male",
-      "date_of_birth": "1986-10-21",
-      "zip_code": "10044"
-    },
-    "financials": {
-      "annual_income": 92000.0,
-      "credit_history_months": 30,
-      "debt_to_income": 0.3,
-      "savings_balance": 41179
-    },
-    "spending_behavior": [
-      {
-        "category": "Rent",
-        "amount": 856
-      }
-    ],
-    "decision": {
-      "loan_approved": true,
-      "interest_rate": 6.2,
-      "approved_amount": 41000,
-      "rejection_reason": "Not Applicable"
-    },
-    "app_id": "app_413",
-    "loan_purpose": "Not Specified",
     "processing_timestamp": "1970-01-01T00:00:00Z"
   },
   {
@@ -9461,42 +9257,6 @@
   },
   {
     "applicant_info": {
-      "full_name": "Emily Lopez",
-      "email": "invalid_format@placeholder.com",
-      "ssn": "641-36-7605",
-      "ip_address": "172.19.231.218",
-      "gender": "Female",
-      "date_of_birth": "1993-09-05",
-      "zip_code": "90282"
-    },
-    "financials": {
-      "annual_income": 75000.0,
-      "credit_history_months": 30,
-      "debt_to_income": 0.31,
-      "savings_balance": 40791
-    },
-    "spending_behavior": [
-      {
-        "category": "Healthcare",
-        "amount": 577
-      },
-      {
-        "category": "Utilities",
-        "amount": 188
-      }
-    ],
-    "decision": {
-      "loan_approved": true,
-      "interest_rate": 4.9,
-      "approved_amount": 20000,
-      "rejection_reason": "Not Applicable"
-    },
-    "app_id": "app_068",
-    "loan_purpose": "Not Specified",
-    "processing_timestamp": "1970-01-01T00:00:00Z"
-  },
-  {
-    "applicant_info": {
       "full_name": "Brenda Brown",
       "email": "brenda.brown63@gmail.com",
       "ssn": "237-95-4979",
@@ -10172,38 +9932,6 @@
       "rejection_reason": "Not Applicable"
     },
     "app_id": "app_467",
-    "loan_purpose": "Not Specified",
-    "processing_timestamp": "1970-01-01T00:00:00Z"
-  },
-  {
-    "applicant_info": {
-      "full_name": "Anna White",
-      "email": "invalid_format@placeholder.com",
-      "ssn": "617-17-3415",
-      "ip_address": "192.168.111.167",
-      "gender": "Female",
-      "date_of_birth": "1990-09-26",
-      "zip_code": "90237"
-    },
-    "financials": {
-      "annual_income": 116000.0,
-      "credit_history_months": 9,
-      "debt_to_income": 0.19,
-      "savings_balance": 48943
-    },
-    "spending_behavior": [
-      {
-        "category": "Utilities",
-        "amount": 566
-      }
-    ],
-    "decision": {
-      "loan_approved": true,
-      "interest_rate": 4.5,
-      "approved_amount": 40000,
-      "rejection_reason": "Not Applicable"
-    },
-    "app_id": "app_377",
     "loan_purpose": "Not Specified",
     "processing_timestamp": "1970-01-01T00:00:00Z"
   },
@@ -12598,42 +12326,6 @@
     "app_id": "app_482",
     "loan_purpose": "Not Specified",
     "processing_timestamp": "1970-01-01T00:00:00Z"
-  },
-  {
-    "applicant_info": {
-      "full_name": "Amy Flores",
-      "email": "invalid_format@placeholder.com",
-      "ssn": "577-59-1479",
-      "ip_address": "10.4.113.112",
-      "gender": "Female",
-      "date_of_birth": "1970-04-26",
-      "zip_code": "90262"
-    },
-    "financials": {
-      "annual_income": 79000.0,
-      "credit_history_months": 102,
-      "debt_to_income": 0.2,
-      "savings_balance": 24961
-    },
-    "spending_behavior": [
-      {
-        "category": "Education",
-        "amount": 687
-      },
-      {
-        "category": "Shopping",
-        "amount": 73
-      }
-    ],
-    "decision": {
-      "loan_approved": true,
-      "interest_rate": 2.7,
-      "approved_amount": 61000,
-      "rejection_reason": "Not Applicable"
-    },
-    "processing_timestamp": "2024-01-15T00:00:00Z",
-    "app_id": "app_146",
-    "loan_purpose": "Not Specified"
   },
   {
     "applicant_info": {
