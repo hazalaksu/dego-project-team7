@@ -11,18 +11,26 @@
 Credit scoring bias analysis for DEGO course .
 
 ## Structure
+```
+├── data/              # Raw and processed datasets
+├── notebooks/         # Jupyter notebooks for data quality and analysis
+├── presentation/      # PowerPoint slides and presentation materials
+├── src/               # Python source code
+└── requirements.txt   # List of dependencies for the project
+```
 
-* ‘ data /‘ - Dataset files
-* ‘ notebooks /‘ - Jupyter analysis notebooks
-* ‘ src /‘ - Python source code
-* ‘ reports /‘ - Final deliverables
+## Setup and Execution
+### Dependencies 
+All required libraries are listed in the `requirements.txt` file.  
+You can install them via pip:
 
+`pip install -r requirements.txt`
 
-## Important Notice
-All required libraries can be found in the file `requirements.txt`
+### Data Processing 
+Executing the `01-data-quality.ipynb` notebook processes the raw data and generates the following two files:
 
-When the notebook `01-data-quality.ipynb` is run it will create 2 files:
 * `processed_credit_applications.json`
+
 * `credit_applications_with_age.csv`
 
 
