@@ -17,6 +17,15 @@ Credit scoring bias analysis for DEGO course .
 * ‘ src /‘ - Python source code
 * ‘ reports /‘ - Final deliverables
 
+
+## Important Notice
+All required libraries can be found in the file `requirements.txt`
+
+When the notebook `01-data-quality.ipynb` is run it will create 2 files:
+* `processed_credit_applications.json`
+* `credit_applications_with_age.csv`
+
+
 ## Executive Summary
 This report outlines the findings of the Data Governance Task Force following a comprehensive audit of NovaCred's credit application dataset. The analysis spanned data engineering, data science, algorithmic fairness, and privacy compliance. We successfully resolved initial data quality issues, but identified a statistically significant gender bias in the loan approval process that violates regulatory thresholds. Additionally, exposed Personally Identifiable Information (PII) required immediate pseudonymization to ensure compliance with GDPR and the EU AI Act.
 
